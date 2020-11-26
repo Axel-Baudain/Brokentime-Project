@@ -1,4 +1,3 @@
-# FRONT
+# BACK
 
-## Todo
-Il faut initialiser le projet (puis supprimer ce .md)
+Il s'agit ici de la racine du projet Back-End, gérée par l'équipe Symfony.
