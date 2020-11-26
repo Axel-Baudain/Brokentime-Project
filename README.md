@@ -25,7 +25,7 @@ Une fois la succession de commandes précédentes exécutées, vous n'avez plus 
 
 Vous tomberez alors sur l'interface d'accueil du site.
 
-## Interactions
+## Interactions de fiction
 
 Une fois enregistré/connecté, vous avez la possibilité de jouer à la fiction de démonstration du projet 🙂
 
