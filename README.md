@@ -27,4 +27,4 @@ Vous tomberez alors sur l'interface d'accueil du site.
 
 ## Interactions
 
-WIP...
+Une fois enregistré/connecté, vous avez la possibilité de jouer à la fiction de démonstration du projet 🙂
