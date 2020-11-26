@@ -28,3 +28,5 @@ Vous tomberez alors sur l'interface d'accueil du site.
 ## Interactions
 
 Une fois enregistré/connecté, vous avez la possibilité de jouer à la fiction de démonstration du projet 🙂
+
+![Fiction interface](https://github.com/Axel-Baudain/Brokentime-Project/blob/master/ezgif-4-3cc443450b73.gif?raw=true "Fiction interface")
